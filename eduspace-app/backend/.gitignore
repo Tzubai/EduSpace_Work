@@ -1,0 +1,3 @@
+# Local secrets and generated Go checksums are not secrets; go.sum should be committed.
+.env*
+!.env.example
